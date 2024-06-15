@@ -1,0 +1,15 @@
+version     4
+type        3 Ba Ti S
+# type_weight 2.0 1.0 1.0
+prediction  0
+# cutoff      6.0 4.2
+cutoff      8.0 5.85
+n_max       8 8
+basis_size  10 10
+# force_delta 0.3
+lambda_v    0.20
+# lambda_1    0.080
+# lambda_2    0.080
+# neuron      40
+batch       1000
+generation  100000
