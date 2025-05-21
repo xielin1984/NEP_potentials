@@ -1,0 +1,14 @@
+version     4
+type        3 Ag Cr Se
+# type_weight 2.0 1.0 1.0
+prediction  0
+cutoff      8.0 6.0
+n_max       8 8
+basis_size  10 10
+neuron      50
+lambda_1    0.0
+lambda_e    1.0
+lambda_f    1.0
+lambda_v    0.1
+batch       1000
+generation  600000
